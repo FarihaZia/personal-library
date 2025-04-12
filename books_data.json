@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "Asharib Ali",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J.K Rowling",
+        "year": "2006",
+        "genre": "Thriller",
+        "read": true
+    }
+]
